@@ -1,0 +1,6 @@
+c:\users\mediasyon\documents\visual studio 2012\Projects\server015\server015\bin\Debug\server015.exe.config
+c:\users\mediasyon\documents\visual studio 2012\Projects\server015\server015\bin\Debug\server015.exe
+c:\users\mediasyon\documents\visual studio 2012\Projects\server015\server015\bin\Debug\server015.pdb
+c:\users\mediasyon\documents\visual studio 2012\Projects\server015\server015\obj\Debug\server015.exe
+c:\users\mediasyon\documents\visual studio 2012\Projects\server015\server015\obj\Debug\server015.pdb
+C:\Users\Mediasyon\Documents\Visual Studio 2012\Projects\server015\server015\obj\Debug\server015.csprojResolveAssemblyReference.cache
