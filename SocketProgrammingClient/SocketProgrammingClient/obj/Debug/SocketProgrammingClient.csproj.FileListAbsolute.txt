@@ -1,0 +1,10 @@
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\bin\Debug\SocketProgrammingClient.exe.config
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\bin\Debug\SocketProgrammingClient.exe
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\bin\Debug\SocketProgrammingClient.pdb
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.Form1.resources
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.Properties.Resources.resources
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.csproj.GenerateResource.Cache
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.exe
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.pdb
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.csprojResolveAssemblyReference.cache
+c:\users\mediasyon\documents\visual studio 2012\Projects\SocketProgrammingClient\SocketProgrammingClient\obj\Debug\SocketProgrammingClient.exe.licenses
